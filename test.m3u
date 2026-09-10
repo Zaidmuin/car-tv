@@ -1,13 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="وادي الذئاب | الجزء 2",الحلقة 48
-https://archive.org/download/48_20260910/48.mp4
+#EXTINF:-1 group-title="new",الكبير أوي
+https://shls-live-enc.edgenextcdn.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index_2.m3u8
 
-#EXTINF:-1 group-title="Live TV",Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="new",مسرح مصر
+https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index_2.m3u8
 
-#EXTINF:-1 group-title="Arabic TV",2M Monde
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 group-title="new",مرايا
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
 
-#EXTINF:-1 group-title="Arabic TV",Roya TV
-https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 group-title="new",طاش ما طاش
+https://shls-live-enc.edgenextcdn.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index_2.m3u8
+
+#EXTINF:-1 group-title="new",سيلفي
+https://shls-live-enc.edgenextcdn.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index_2.m3u8
+
+#EXTINF:-1 group-title="new",العاصوف
+https://shls-live-enc.edgenextcdn.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index_19.m3u8
+
+#EXTINF:-1 group-title="new",اللعبة
+https://shls-live-enc.edgenextcdn.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index_2.m3u8
+
+#EXTINF:-1 group-title="new",Ramadan Maana Mosalsalat
+https://shls-live-enc.edgenextcdn.net/out/v1/9747e20a05794a14b0cfccd7c621dd00/index_2.m3u8
