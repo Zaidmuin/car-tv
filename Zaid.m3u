@@ -1307,3 +1307,123 @@ https://video.govoritmoskva.ru/rufm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQN0P2B.png" tvg-name="Русский Роман (1080p)" group-title="Movies",Русский Роман (1080p)
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Aflam - English Movies" group-title="Live Series",Aflam - English Movies
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tarab" group-title="Live Series",Tarab
+https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Asoof - العاصوف" group-title="Live Series",Al Asoof - العاصوف
+https://shd-amg-fast.edgenextcdn.net/tx003/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Masrah - مسرح" group-title="Live Series",Masrah - مسرح
+https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jack Al Alam - جاك العلم" group-title="Live Series",Jack Al Alam - جاك العلم
+https://shd-amg-fast.edgenextcdn.net/tx005/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx006/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TX007" group-title="Live Series",TX007
+https://shd-amg-fast.edgenextcdn.net/tx007/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Maraya - مرايا" group-title="Live Series",Maraya - مرايا
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Masrah Masr - مسرح مصر" group-title="Live Series",Masrah Masr - مسرح مصر
+https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtlnZbq.png" tvg-name="Bab Al Hara - باب الحارة" group-title="Live Series",Bab Al Hara - باب الحارة
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Movies Action" group-title="Live Series",Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Movies Thriller" group-title="Live Series",Movies Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+
+#EXTINF:-1 tvg-name="El Kabeer Awi - الكبير أوي" group-title="Live Series",El Kabeer Awi - الكبير أوي
+https://shd-amg-fast.edgenextcdn.net/tx013/playlist.m3u8
+
+#EXTINF:-1 tvg-name="El Le'ba - اللعبة" group-title="Live Series",El Le'ba - اللعبة
+https://shd-amg-fast.edgenextcdn.net/tx014/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tash Ma Tash - طاش ما طاش" group-title="Live Series",Tash Ma Tash - طاش ما طاش
+https://shd-amg-fast.edgenextcdn.net/tx015/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Quran Al Kareem - القرآن الكريم" group-title="Live Series",Al Quran Al Kareem - القرآن الكريم
+https://shd-amg-fast.edgenextcdn.net/tx016/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nasser Al Qasabi - ناصر القصبي" group-title="Live Series",Nasser Al Qasabi - ناصر القصبي
+https://shd-amg-fast.edgenextcdn.net/tx017/playlist.m3u8
+
+#EXTINF:-1 tvg-name="English Sports" group-title="Live Series",English Sports
+https://shd-amg-fast.edgenextcdn.net/tx018/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Majid Al Mohandis - ماجد المهندس" group-title="Live Series",Majid Al Mohandis - ماجد المهندس
+https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx020/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx021/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KSA" group-title="Live Series",KSA
+https://shd-amg-fast.edgenextcdn.net/tx022/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx023/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aroos Beirut - عروس بيروت" group-title="Live Series",Aroos Beirut - عروس بيروت
+https://shd-amg-fast.edgenextcdn.net/tx024/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Boqaat Daw - بقعة ضوء" group-title="Live Series",Boqaat Daw - بقعة ضوء
+https://shd-amg-fast.edgenextcdn.net/tx025/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Stiletto - ستيلتو" group-title="Live Series",Stiletto - ستيلتو
+https://shd-amg-fast.edgenextcdn.net/tx026/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx027/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Podcaster - البودكاستر" group-title="Live Series",Al Podcaster - البودكاستر
+https://shd-amg-fast.edgenextcdn.net/tx028/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fairuz - فيروز" group-title="Live Series",Fairuz - فيروز
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx030/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx031/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx032/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx034/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="Live Series",Unknown
+https://shd-amg-fast.edgenextcdn.net/tx035/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KSA 2" group-title="Live Series",KSA 2
+https://shd-amg-fast.edgenextcdn.net/tx036/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KSA 3" group-title="Live Series",KSA 3
+https://shd-amg-fast.edgenextcdn.net/tx037/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KSA 4" group-title="Live Series",KSA 4
+https://shd-amg-fast.edgenextcdn.net/tx038/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KSA 5" group-title="Live Series",KSA 5
+https://shd-amg-fast.edgenextcdn.net/tx039/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KSA 6" group-title="Live Series",KSA 6
+https://shd-amg-fast.edgenextcdn.net/tx040/playlist.m3u8
