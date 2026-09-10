@@ -17,3 +17,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14
 
 #EXTINF:-1 group-title="Live TV",Asharq News
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtlnZbq.png" tvg-name="Bab Al Hara (1080p)" group-title="Series",Bab Al Hara (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
